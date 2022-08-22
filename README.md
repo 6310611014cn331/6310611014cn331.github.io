@@ -1,6 +1,6 @@
 # 6310611014cn331.github.io
 ## Personal Information
-![chawanrat](https://user-images.githubusercontent.com/69451786/185778166-f42f5803-c40a-4742-8a30-59d517fb92fd.jpg)
+![chawanrat](https://user-images.githubusercontent.com/69451786/185778166-f42f5803-c40a-4742-8a30-59d517fb92fd.jpg)<br>
 <br>**Name:** Chawanrat **Surname:** Sabenjapakin<br>
 <br>**Nickname:** Ma-Fuang<br>
 <br>**Student Number:** 6310611014<br>
